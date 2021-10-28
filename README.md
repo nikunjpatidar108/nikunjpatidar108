@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nikunjpatidar108
 - 👀 I’m interested in Devloping and cooking too      
 - 🌱 I’m currently learning python backend
-- 💞️ I’m looking to collaborate on Fynd
+- 💞️ I’m looking to collaborate with Fynd
 - 📫 How to reach me - mail = nikunjpatidar108@gmail.com OR call_me = 9586565226
 
 <!---
